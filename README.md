@@ -147,6 +147,10 @@ We refactored everything to make more sense and run faster. Large parts of the c
 
 0.2.0 is a breaking upgrade from 0.1.0 and is still considered beta software until a 1.0.0 release.
 
+Contributing
+------------
+To get started, <a href="https://www.clahub.com/agreements/PRX/PlayerHater">sign the Contributor License Agreement</a>.
+
 License
 -------
 
